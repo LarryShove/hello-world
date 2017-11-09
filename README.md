@@ -1,2 +1,3 @@
 # hello-world
-solidity hello-wprld
+solidity hello-world
+first readme edit
